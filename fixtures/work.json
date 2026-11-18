@@ -1,0 +1,25 @@
+{
+  "claims": [
+    {
+      "id": "TR-1",
+      "applicant": "林青",
+      "receipt": "H-91",
+      "night": "05-02",
+      "cents": 34000
+    },
+    {
+      "id": "TR-2",
+      "applicant": "方珏",
+      "receipt": "H-91",
+      "night": "05-02",
+      "cents": 34000
+    },
+    {
+      "id": "TR-3",
+      "applicant": "方珏",
+      "receipt": "H-91",
+      "night": "05-03",
+      "cents": 34000
+    }
+  ]
+}
