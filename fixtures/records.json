@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "trip-6",
+    "source": "travel-request",
+    "revision": 1,
+    "text": "项目 Q 赴宁波参会，住宿 5 月 2 日至 5 月 6 日，主办方承担 5 月 3 日一晚。"
+  },
+  {
+    "record_id": "trip-6-change",
+    "source": "itinerary-update",
+    "revision": 2,
+    "text": "会议改为 5 月 4 日结束，5 月 6 日返程机票已出票。"
+  }
+]
