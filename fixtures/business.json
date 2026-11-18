@@ -1,0 +1,44 @@
+{
+  "applicants": [
+    "林青",
+    "方珏"
+  ],
+  "hotel": [
+    {
+      "receipt": "H-91",
+      "night": "05-02",
+      "cents": 68000,
+      "paid_by": "林青",
+      "occupants": [
+        "林青",
+        "方珏"
+      ]
+    },
+    {
+      "receipt": "H-91",
+      "night": "05-03",
+      "cents": 68000,
+      "paid_by": "林青",
+      "occupants": [
+        "林青",
+        "方珏"
+      ]
+    }
+  ],
+  "host_paid": [
+    {
+      "receipt": "H-91",
+      "night": "05-03",
+      "cents": 68000
+    }
+  ],
+  "reimbursements": [
+    {
+      "applicant": "林青",
+      "receipt": "H-91",
+      "night": "05-02",
+      "cents": 34000,
+      "paid": true
+    }
+  ]
+}

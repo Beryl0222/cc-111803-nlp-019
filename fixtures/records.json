@@ -3,12 +3,18 @@
     "record_id": "trip-6",
     "source": "travel-request",
     "revision": 1,
-    "text": "项目 Q 赴宁波参会，住宿 5 月 2 日至 5 月 6 日，主办方承担 5 月 3 日一晚。"
+    "text": "我和方珏合住两晚，三号那晚主办方承担。"
   },
   {
-    "record_id": "trip-6-change",
+    "record_id": "trip-6-update",
     "source": "itinerary-update",
-    "revision": 2,
-    "text": "会议改为 5 月 4 日结束，5 月 6 日返程机票已出票。"
+    "revision": 1,
+    "text": "会议提前一天结束，林青三号返程，方珏仍留宿。"
+  },
+  {
+    "record_id": "finance-note",
+    "source": "receipt-note",
+    "revision": 1,
+    "text": "票据按整房开给林青，尚未确认两人的分摊。"
   }
 ]
