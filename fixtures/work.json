@@ -21,5 +21,43 @@
       "night": "05-03",
       "cents": 34000
     }
+  ],
+  "exception_events": [
+    {
+      "event": "会议提前结束紧急返程",
+      "applicants": [
+        "林青"
+      ],
+      "fee_types": [
+        "机票改签"
+      ],
+      "cents_cap": 50000
+    }
+  ],
+  "change_fees": [
+    {
+      "id": "FEE-1",
+      "applicant": "林青",
+      "event": "会议提前结束紧急返程",
+      "fee_type": "机票改签",
+      "receipt": "A-77",
+      "cents": 46000
+    },
+    {
+      "id": "FEE-2",
+      "applicant": "方珏",
+      "event": "会议提前结束紧急返程",
+      "fee_type": "机票改签",
+      "receipt": "A-78",
+      "cents": 46000
+    },
+    {
+      "id": "FEE-3",
+      "applicant": "林青",
+      "event": "会议提前结束紧急返程",
+      "fee_type": "机票改签",
+      "receipt": null,
+      "cents": 12000
+    }
   ]
 }
